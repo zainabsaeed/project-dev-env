@@ -1,0 +1,30 @@
+{
+  "name": "project-dev-env",
+  "version": "1.0.0",
+  "description": "project with dev enviornment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zainabsaeed/project-dev-env.git"
+  },
+  "author": "Zainab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zainabsaeed/project-dev-env/issues"
+  },
+  "homepage": "https://github.com/zainabsaeed/project-dev-env#readme",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.2",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-less": "^3.5.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "less-plugin-autoprefix": "^1.5.1",
+    "less-plugin-glob": "^2.0.1"
+  }
+}

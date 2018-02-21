@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.less"],"names":[],"mappings":"AAIA,GACI,OAAA,EACA,iBAAA,IACA,UAAA","file":"../main.css","sourcesContent":["// @import \"vendor/*.less\";\r\n// @import \"base/*.less\";\r\n// @import \"layout/*.less\";\r\n// @import \"component/*.less\";\r\nh1{\r\n    margin: 0;\r\n    background-color: red;\r\n    font-size: 10rem;\r\n}"]}
